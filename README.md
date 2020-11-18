@@ -1,6 +1,6 @@
 # Welcome to Nguyet Que repository
 
-This repo contains the source code of a simple .Net application uesd to demostrate the dll assembly file as a library of Introduction to Software Engineering course at FPT University - HCMC Campus 
+This repo contains the source code of a simple .Net application uesd to demostrate the dll assembly file as a library of NET and C#/course at FPT University - HCMC Campus 
 
 ## You will find in this repo:
 * MyBookLibrary.dll as a library
